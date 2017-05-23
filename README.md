@@ -33,7 +33,9 @@ ZIP_FILE.isZipSync('temp.zip')
 
 ### Clone the repo
 
-git clone https://github.com/luthraG/is-zip-file.git
+```bash
+$ git clone https://github.com/luthraG/is-zip-file.git
+```
 
 ### API
 
