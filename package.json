@@ -1,6 +1,6 @@
 {
   "name"          : "is-zip-file",
-  "version"       : "1.0.1",
+  "version"       : "1.0.2",
   "description"   : "Checks if the file path is zip file. It does not read the complete file nor it depends upon file extension",
   "license"       : "MIT",
   "repository"    : "https://github.com/luthraG/is-zip-file.git",
@@ -9,7 +9,7 @@
     "email"       : "luthra.zenith@gmail.com"
   },
   "dependencies"  : {
-    "node-ratify" : "1.0.5"
+    "node-ratify" : "~1.1.0"
   },
   "engines"       : {
     "node"        : ">=0.10.0"
